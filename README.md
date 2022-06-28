@@ -1,9 +1,8 @@
-# step 1 
 after cloning this repo, run:
 
-terraform init
-terraform plan
-terraform apply
+## terraform init
+## terraform plan
+## terraform apply
 
 This will deploy an IAM role, an IAM policy and a lambda function
 
